@@ -47,3 +47,6 @@ int main(){
     cout<<st.isempty()<<endl;  
     return 0;
 }
+// Output
+// 7
+// 0
