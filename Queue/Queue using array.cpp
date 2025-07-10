@@ -54,3 +54,7 @@ int main(){
     cout<<q.isempty()<<endl;  
     return 0;
 }
+// Output
+// 1
+// 2
+// 0
