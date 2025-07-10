@@ -66,3 +66,7 @@ int main(){
     display(recnewhead);
     return 0;
 }
+// Output
+// 5->4->3->2->1->NULL
+// 1->2->3->4->5->NULL
+// 5->4->3->2->1->NULL
