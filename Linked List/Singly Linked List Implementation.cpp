@@ -129,3 +129,12 @@ int main(){
     cout<<searching(head,59)<<endl;
     return 0;
 }
+//Output
+// 1->NULL
+// 1->2->NULL
+// 3->1->2->NULL
+// 1->2->NULL
+// 1->NULL
+// 1->55->56->57->58->NULL
+// 1
+// 0
